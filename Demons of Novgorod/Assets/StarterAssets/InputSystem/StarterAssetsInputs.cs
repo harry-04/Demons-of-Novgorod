@@ -12,6 +12,7 @@ namespace StarterAssets
 		public Vector2 look;
 		public bool jump;
 		public bool sprint;
+		public bool aim;
 
 		[Header("Movement Settings")]
 		public bool analogMovement;
@@ -22,7 +23,7 @@ namespace StarterAssets
 		public bool cursorInputForLook = true;
 #endif
 
-#if ENABLE_INPUT_SYSTEM && STARTER_ASSETS_PACKAGES_CHECKED
+
 		public void OnMove(InputValue value)
 		{
 			MoveInput(value.Get<Vector2>());
@@ -45,9 +46,14 @@ namespace StarterAssets
 		{
 			SprintInput(value.isPressed);
 		}
-#else
-	// old input sys if we do decide to have it (most likely wont)...
-#endif
+
+		public void OnAim(InputValue value)
+		{
+			AimInput(value.isPressed);
+		}
+
+		// old input sys if we do decide to have it (most likely wont)...
+
 
 
 		public void MoveInput(Vector2 newMoveDirection)
@@ -68,6 +74,11 @@ namespace StarterAssets
 		public void SprintInput(bool newSprintState)
 		{
 			sprint = newSprintState;
+		}
+
+		public void AimInput(bool newAimState)
+		{
+			aim = newAimState;
 		}
 
 #if !UNITY_IOS || !UNITY_ANDROID
