@@ -13,7 +13,7 @@ public class ThirdPersonShooterController : MonoBehaviour
     [SerializeField] private LayerMask aimColliderLayerMask = new LayerMask();
     [SerializeField] private Transform debugTransform;
 
-    //bullet impact effect
+    //bullet impact effects
     [SerializeField] private Transform vfxHitGreen;
     [SerializeField] private Transform vfxHitRed;
 
@@ -21,6 +21,8 @@ public class ThirdPersonShooterController : MonoBehaviour
     private StarterAssetsInputs starterAssetsInputs;
 
     private Animator animator;
+
+    public GameObject pistol;
 
     private void Awake()
     {
@@ -51,6 +53,7 @@ public class ThirdPersonShooterController : MonoBehaviour
             
             //since the aiming animation is on a different layer, we set the layer weight to 1 (since it goes up by 0,1,2,3, etc.)
             animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1), 1f, Time.deltaTime * 10f));
+            pistol.SetActive(true);
 
             Vector3 worldAimTarget = mouseWorldPosition;
             worldAimTarget.y = transform.position.y;
@@ -64,6 +67,7 @@ public class ThirdPersonShooterController : MonoBehaviour
             thirdPersonController.SetSensitivity(normalSensitivity);
             thirdPersonController.SetRotateOnMove(true);
             animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1), 0f, Time.deltaTime * 10f));
+            pistol.SetActive(false);
         }
 
         
