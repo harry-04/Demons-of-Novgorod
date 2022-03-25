@@ -7064,7 +7064,7 @@ GameObject:
   - component: {fileID: 4416926083123393569}
   - component: {fileID: 4416926083123393580}
   m_Layer: 8
-  m_Name: Player
+  m_Name: Phoenix
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
