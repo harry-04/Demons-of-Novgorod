@@ -4,15 +4,34 @@ using UnityEngine;
 
 public class BulletTarget : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public float enemyHealth;
+
+    public GameObject target;
+
+    public void Start()
+    {
+        enemyHealth = 10f;
+    }
+
+    public void Update()
     {
         
     }
 
-    // Update is called once per frame
-    void Update()
+    public void TakeDamage(float damage)
     {
-        
+        enemyHealth -= damage;
+
+        print("damage has been taken");
+
+        if (enemyHealth <= 0f)
+        {
+            Die();
+        }
+    }
+
+    public void Die()
+    {
+        target.SetActive(false);
     }
 }

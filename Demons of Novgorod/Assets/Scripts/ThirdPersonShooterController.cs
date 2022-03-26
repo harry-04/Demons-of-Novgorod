@@ -23,12 +23,14 @@ public class ThirdPersonShooterController : MonoBehaviour
     private Animator animator;
 
     public GameObject pistol;
+    private float damage;
 
     private void Awake()
     {
         thirdPersonController = GetComponent<ThirdPersonController>();
         starterAssetsInputs = GetComponent<StarterAssetsInputs>();
         animator = GetComponent<Animator>();
+        damage = 5f;
     }
 
     private void Update()
@@ -75,19 +77,23 @@ public class ThirdPersonShooterController : MonoBehaviour
         {
             if (hitTransform != null)
             {
-                //if its not null, then we hit something
+                //if its not null, then we hit a target
                 if (hitTransform.GetComponent<BulletTarget>() != null)
                 {
+                    BulletTarget bulletTarget = hitTransform.GetComponent<BulletTarget>();
+
                     //Hit target
                     Instantiate(vfxHitGreen, raycastHit.point, Quaternion.identity);
+                    bulletTarget.TakeDamage(damage);
                 }
                 else
                 {
-                    //Hit something else
+                    //Hit a non-target
                     Instantiate(vfxHitRed, raycastHit.point, Quaternion.identity);
                 }
             }
 
+            animator.SetTrigger("canShoot");
             starterAssetsInputs.shoot = false;
         }
     }
