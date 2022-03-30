@@ -10,7 +10,7 @@ public class BulletTarget : MonoBehaviour
 
     public void Start()
     {
-        enemyHealth = 10f;
+        
     }
 
     public void Update()
