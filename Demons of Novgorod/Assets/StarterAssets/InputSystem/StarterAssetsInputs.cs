@@ -14,6 +14,7 @@ namespace StarterAssets
 		public bool sprint;
 		public bool aim;
 		public bool shoot;
+		public bool reload;
 
 		[Header("Movement Settings")]
 		public bool analogMovement;
@@ -58,6 +59,11 @@ namespace StarterAssets
 			ShootInput(value.isPressed);
 		}
 
+		public void OnReload(InputValue value)
+        {
+			ReloadInput(value.isPressed);
+        }
+
 		// old input sys if we do decide to have it (most likely wont)...
 
 
@@ -91,6 +97,11 @@ namespace StarterAssets
 		{
 			shoot = newShootState;
 		}
+
+		public void ReloadInput(bool newReloadState)
+        {
+			reload = newReloadState;
+        }
 
 
 #if !UNITY_IOS || !UNITY_ANDROID

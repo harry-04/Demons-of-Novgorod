@@ -23,7 +23,9 @@ public class ThirdPersonShooterController : MonoBehaviour
     private Animator animator;
 
     public GameObject pistol;
+    public GameObject crosshair;
     private float damage;
+    private bool canShoot;
 
     private void Awake()
     {
@@ -31,6 +33,7 @@ public class ThirdPersonShooterController : MonoBehaviour
         starterAssetsInputs = GetComponent<StarterAssetsInputs>();
         animator = GetComponent<Animator>();
         damage = 5f;
+        canShoot = false;
     }
 
     private void Update()
@@ -56,6 +59,8 @@ public class ThirdPersonShooterController : MonoBehaviour
             //since the aiming animation is on a different layer, we set the layer weight to 1 (since it goes up by 0,1,2,3, etc.)
             animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1), 1f, Time.deltaTime * 10f));
             pistol.SetActive(true);
+            crosshair.SetActive(true);
+            canShoot = true;
 
             Vector3 worldAimTarget = mouseWorldPosition;
             worldAimTarget.y = transform.position.y;
@@ -70,10 +75,12 @@ public class ThirdPersonShooterController : MonoBehaviour
             thirdPersonController.SetRotateOnMove(true);
             animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1), 0f, Time.deltaTime * 10f));
             pistol.SetActive(false);
+            crosshair.SetActive(false);
+            canShoot = false;
         }
 
         
-        if (starterAssetsInputs.shoot)
+        if (starterAssetsInputs.shoot && canShoot == true && gameObject.GetComponent<GunScript>().loadedAmmo > 0)
         {
             if (hitTransform != null)
             {
@@ -95,7 +102,9 @@ public class ThirdPersonShooterController : MonoBehaviour
 
             animator.SetTrigger("canShoot");
             starterAssetsInputs.shoot = false;
+            gameObject.GetComponent<GunScript>().loadedAmmo -= 1;
         }
+
     }
 
 
