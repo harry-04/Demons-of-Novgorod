@@ -114,7 +114,7 @@ public class ThirdPersonShooterController : MonoBehaviour
         if (starterAssetsInputs.interact)
         {
             //check for interactable object
-            if (Physics.Raycast(ray, out raycastHit, 100))
+            if (Physics.Raycast(ray, out raycastHit, 6))
             {
                 HandgunAmmo handgunAmmo = raycastHit.collider.GetComponent<HandgunAmmo>();
 
