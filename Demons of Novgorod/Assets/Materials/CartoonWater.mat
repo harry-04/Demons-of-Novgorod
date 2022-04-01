@@ -37,6 +37,6 @@ Material:
     - RippleSpeed: 1.57
     - Slimness: 5
     m_Colors:
-    - BaseColour: {r: 0, g: 0.38457632, b: 1, a: 0}
-    - RippleColour: {r: 1.1920174, g: 4.543396, b: 7.6578083, a: 0}
+    - BaseColour: {r: 0, g: 0.15590099, b: 0.4056604, a: 0}
+    - RippleColour: {r: 0, g: 0.6541873, b: 1.2538594, a: 0}
   m_BuildTextureStacks: []
