@@ -27,6 +27,7 @@ public class ThirdPersonShooterController : MonoBehaviour
     private float damage;
     private bool canShoot;
 
+
     private void Awake()
     {
         thirdPersonController = GetComponent<ThirdPersonController>();
@@ -50,6 +51,8 @@ public class ThirdPersonShooterController : MonoBehaviour
             hitTransform = raycastHit.transform;
         }
 
+       
+
         if (starterAssetsInputs.aim)
         {
             aimVirtualCamera.gameObject.SetActive(true);
@@ -67,6 +70,8 @@ public class ThirdPersonShooterController : MonoBehaviour
             Vector3 aimDirection = (worldAimTarget - transform.position).normalized;
 
             transform.forward = Vector3.Lerp(transform.forward, aimDirection, Time.deltaTime * 20f);
+
+           
         }
         else
         {
@@ -102,7 +107,24 @@ public class ThirdPersonShooterController : MonoBehaviour
 
             animator.SetTrigger("canShoot");
             starterAssetsInputs.shoot = false;
-            gameObject.GetComponent<GunScript>().loadedAmmo -= 1;
+            gameObject.GetComponent<GunScript>().loadedAmmo --;
+        }
+
+        
+        if (starterAssetsInputs.interact)
+        {
+            //check for interactable object
+            if (Physics.Raycast(ray, out raycastHit, 100))
+            {
+                HandgunAmmo handgunAmmo = raycastHit.collider.GetComponent<HandgunAmmo>();
+
+                if (handgunAmmo != null)
+                {
+                    gameObject.GetComponent<GunScript>().overallAmmo += 10;
+                    Destroy(hitTransform.gameObject);
+                    starterAssetsInputs.interact = false;
+                }
+            }
         }
 
     }

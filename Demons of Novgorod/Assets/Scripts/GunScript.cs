@@ -11,6 +11,8 @@ public class GunScript : MonoBehaviour
     public float overallAmmo;
     public Text overallAmmoText;
 
+    public float pistolMagSize = 10;
+
     private StarterAssetsInputs starterAssetsInputs;
 
     void Start()
@@ -25,9 +27,10 @@ public class GunScript : MonoBehaviour
         loadedAmmoText.text = loadedAmmo.ToString();
         overallAmmoText.text = overallAmmo.ToString();
 
-        if (starterAssetsInputs.reload)
+        if (starterAssetsInputs.reload && overallAmmo > 0)
         {
             Reload();
+            starterAssetsInputs.reload = false;
         }
     }
 
@@ -39,6 +42,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 10f;
             starterAssetsInputs.reload = false;
         }
+        
 
         if (loadedAmmo == 1f)
         {
@@ -46,6 +50,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 9f;
             starterAssetsInputs.reload = false;
         }
+       
 
         if (loadedAmmo == 2f)
         {
@@ -53,6 +58,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 8f;
             starterAssetsInputs.reload = false;
         }
+      
 
         if (loadedAmmo == 3f)
         {
@@ -60,6 +66,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 7f;
             starterAssetsInputs.reload = false;
         }
+     
 
         if (loadedAmmo == 4f)
         {
@@ -67,6 +74,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 6f;
             starterAssetsInputs.reload = false;
         }
+     
 
         if (loadedAmmo == 5f)
         {
@@ -74,6 +82,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 5f;
             starterAssetsInputs.reload = false;
         }
+      
 
         if (loadedAmmo == 6f)
         {
@@ -81,6 +90,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 4f;
             starterAssetsInputs.reload = false;
         }
+      
 
         if (loadedAmmo == 7f)
         {
@@ -88,6 +98,7 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 3f;
             starterAssetsInputs.reload = false;
         }
+       
 
         if (loadedAmmo == 8f)
         {
@@ -95,13 +106,14 @@ public class GunScript : MonoBehaviour
             overallAmmo -= 2f;
             starterAssetsInputs.reload = false;
         }
-
+        
         if (loadedAmmo == 9f)
         {
             loadedAmmo += 1f;
             overallAmmo -= 1f;
             starterAssetsInputs.reload = false;
         }
+        
 
 
 

@@ -15,6 +15,7 @@ namespace StarterAssets
 		public bool aim;
 		public bool shoot;
 		public bool reload;
+		public bool interact;
 
 		[Header("Movement Settings")]
 		public bool analogMovement;
@@ -64,6 +65,11 @@ namespace StarterAssets
 			ReloadInput(value.isPressed);
         }
 
+		public void OnInteract(InputValue value)
+        {
+			InteractInput(value.isPressed);
+        }
+
 		// old input sys if we do decide to have it (most likely wont)...
 
 
@@ -101,6 +107,11 @@ namespace StarterAssets
 		public void ReloadInput(bool newReloadState)
         {
 			reload = newReloadState;
+        }
+
+		public void InteractInput(bool newInteractState)
+        {
+			interact = newInteractState;
         }
 
 
