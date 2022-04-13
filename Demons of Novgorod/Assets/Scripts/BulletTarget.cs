@@ -6,7 +6,7 @@ public class BulletTarget : MonoBehaviour
 {
     public float enemyHealth;
 
-    public GameObject target;
+    //public GameObject target;
 
     public void Start()
     {
@@ -32,6 +32,6 @@ public class BulletTarget : MonoBehaviour
 
     public void Die()
     {
-        target.SetActive(false);
+        Destroy(gameObject);
     }
 }

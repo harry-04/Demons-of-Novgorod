@@ -16,6 +16,7 @@ namespace StarterAssets
 		public bool shoot;
 		public bool reload;
 		public bool interact;
+		public bool throwgrenade;
 
 		[Header("Movement Settings")]
 		public bool analogMovement;
@@ -70,6 +71,11 @@ namespace StarterAssets
 			InteractInput(value.isPressed);
         }
 
+		public void OnThrowGrenade(InputValue value)
+        {
+			ThrowGrenadeInput(value.isPressed);
+        }
+
 		// old input sys if we do decide to have it (most likely wont)...
 
 
@@ -112,6 +118,11 @@ namespace StarterAssets
 		public void InteractInput(bool newInteractState)
         {
 			interact = newInteractState;
+        }
+
+		public void ThrowGrenadeInput(bool newThrowGrenadeState)
+        {
+			throwgrenade = newThrowGrenadeState;
         }
 
 

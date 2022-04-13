@@ -17,6 +17,11 @@ public class ThirdPersonShooterController : MonoBehaviour
     [SerializeField] private Transform vfxHitGreen;
     [SerializeField] private Transform vfxHitRed;
 
+    //grenade variables
+    public float throwForce = 40f;
+    public GameObject grenadePrefab;
+    public Transform grenadePoint;
+
     private ThirdPersonController thirdPersonController;
     private StarterAssetsInputs starterAssetsInputs;
 
@@ -26,6 +31,7 @@ public class ThirdPersonShooterController : MonoBehaviour
     public GameObject crosshair;
     private float damage;
     private bool canShoot;
+
 
 
     private void Awake()
@@ -127,6 +133,31 @@ public class ThirdPersonShooterController : MonoBehaviour
             }
         }
 
+        if (starterAssetsInputs.throwgrenade && canShoot)
+        {
+            animator.SetTrigger("canThrowGrenade");
+            starterAssetsInputs.throwgrenade = false;
+        }
+
+    }
+
+    public void ThrowGrenade()
+    {
+        GameObject grenade = Instantiate(grenadePrefab, grenadePoint.position, grenadePoint.rotation);
+
+        //apply a forward force to the grenade
+        Rigidbody rb = grenade.GetComponent<Rigidbody>();
+        rb.AddForce(transform.forward * throwForce, ForceMode.VelocityChange);
+    }
+
+    public void DisableHandGun()
+    {
+        pistol.transform.position = new Vector3(-100, -100, -100);
+    }
+
+    public void EnableHandgun()
+    {
+        pistol.transform.position = new Vector3(0, 0, 0);
     }
 
 
