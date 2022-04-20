@@ -32,6 +32,8 @@ public class ThirdPersonShooterController : MonoBehaviour
     private float damage;
     private bool canShoot;
 
+    public bool hasKey;
+
 
 
     private void Awake()
@@ -41,6 +43,7 @@ public class ThirdPersonShooterController : MonoBehaviour
         animator = GetComponent<Animator>();
         damage = 5f;
         canShoot = false;
+        hasKey = false;
     }
 
     private void Update()
@@ -123,10 +126,18 @@ public class ThirdPersonShooterController : MonoBehaviour
             if (Physics.Raycast(ray, out raycastHit, 6))
             {
                 HandgunAmmo handgunAmmo = raycastHit.collider.GetComponent<HandgunAmmo>();
+                KeyScript keyScript = raycastHit.collider.GetComponent<KeyScript>();
 
                 if (handgunAmmo != null)
                 {
                     gameObject.GetComponent<GunScript>().overallAmmo += 10;
+                    Destroy(hitTransform.gameObject);
+                    starterAssetsInputs.interact = false;
+                }
+
+                if (keyScript != null)
+                {
+                    hasKey = true;
                     Destroy(hitTransform.gameObject);
                     starterAssetsInputs.interact = false;
                 }
