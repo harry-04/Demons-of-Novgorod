@@ -112,6 +112,20 @@ public class ThirdPersonShooterController : MonoBehaviour
                     //Hit a non-target
                     Instantiate(vfxHitRed, raycastHit.point, Quaternion.identity);
                 }
+
+
+
+                if (hitTransform.GetComponent<ButtonScript>() != null)
+                {
+                    ButtonScript buttonScript = hitTransform.GetComponent<ButtonScript>();
+
+                    //Activate button
+                    Instantiate(vfxHitGreen, raycastHit.point, Quaternion.identity);
+                    buttonScript.OpenDoor();
+                }
+
+
+
             }
 
             animator.SetTrigger("canShoot");
