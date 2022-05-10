@@ -5,6 +5,7 @@ using UnityEngine;
 public class BulletTarget : MonoBehaviour
 {
     public float enemyHealth;
+    public GameObject enemy;
 
     //public GameObject target;
 
@@ -32,6 +33,6 @@ public class BulletTarget : MonoBehaviour
 
     public void Die()
     {
-        Destroy(gameObject);
+        Destroy(enemy);
     }
 }
