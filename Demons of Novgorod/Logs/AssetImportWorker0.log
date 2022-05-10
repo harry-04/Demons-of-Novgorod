@@ -696,3 +696,356 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1602.883056 seconds.
+  path: Assets/Animations/Enemies/Pirate1Run.fbx
+  artifactKey: Guid(70035d0f0c7f28f488637b855bd7a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemies/Pirate1Run.fbx using Guid(70035d0f0c7f28f488637b855bd7a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11146afc04c678465e57b0b9170d5d72') in 0.042048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.590183 seconds.
+  path: Assets/Animations/Enemies/Pirate1Controller.controller
+  artifactKey: Guid(611f25f47ae32f147a999296104ae0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemies/Pirate1Controller.controller using Guid(611f25f47ae32f147a999296104ae0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f9c895180178b21347081e6e866cdf') in 0.010868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 282.949532 seconds.
+  path: Assets/Animations/Enemies/Pirate1Shoot.fbx
+  artifactKey: Guid(a26d8530463253a4690e852e28ecb517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemies/Pirate1Shoot.fbx using Guid(a26d8530463253a4690e852e28ecb517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c31a71bac0974518a3dc72d81e2a54') in 0.011726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 259.226214 seconds.
+  path: Assets/Scripts/BulletTarget.cs
+  artifactKey: Guid(bea267eac50f7204eb1f165ac099a80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BulletTarget.cs using Guid(bea267eac50f7204eb1f165ac099a80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cbcf9ccea399b1804df94b1edca93a5') in 0.014116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.468290 seconds.
+  path: Assets/Scripts/ButtonScript.cs
+  artifactKey: Guid(71755c7a4689d9e49b0d21db76bc3db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonScript.cs using Guid(71755c7a4689d9e49b0d21db76bc3db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a103568e07afb3bdb6730fdd9414e9a') in 0.006909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.130536 seconds.
+  path: Assets/Scripts/EnemyController.cs
+  artifactKey: Guid(8ad82f0b6edfdd54683cde8742da2e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyController.cs using Guid(8ad82f0b6edfdd54683cde8742da2e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf904fbd43a4cf9d8147917d9ab503a') in 0.006970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.739863 seconds.
+  path: Assets/Scripts/Grenade.cs
+  artifactKey: Guid(0586b7d1906adb1418163c8ff03f8d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Grenade.cs using Guid(0586b7d1906adb1418163c8ff03f8d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8713a77d338bd70962a42ac666982f27') in 0.023405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.235402 seconds.
+  path: Assets/Scripts/GunScript.cs
+  artifactKey: Guid(00d2b201b53ae21419f84bf60b793c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GunScript.cs using Guid(00d2b201b53ae21419f84bf60b793c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3710c15bd30a344aa6007f9a104bc75') in 0.007020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.195036 seconds.
+  path: Assets/Scripts/HandgunAmmo.cs
+  artifactKey: Guid(17acd35a9a95d1b40bc9613f37fff989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandgunAmmo.cs using Guid(17acd35a9a95d1b40bc9613f37fff989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72bf74688f424a6bfcdea75a2951063f') in 0.016560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.427346 seconds.
+  path: Assets/Scripts/KeyScript.cs
+  artifactKey: Guid(ad4b32674eb04464bbccc84fa44f07e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/KeyScript.cs using Guid(ad4b32674eb04464bbccc84fa44f07e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e938d352ed114144b6baa4278bf827b') in 0.006790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.591658 seconds.
+  path: Assets/Scripts/MainMenuSceneSwitcher.cs
+  artifactKey: Guid(1b0b4196029e54e409d64b5cd36011da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenuSceneSwitcher.cs using Guid(1b0b4196029e54e409d64b5cd36011da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895756f8bcea248440a64a56b615da22') in 0.007033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.511222 seconds.
+  path: Assets/Scripts/PlayerManager.cs
+  artifactKey: Guid(f88a11cbe607793498323fea66956d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerManager.cs using Guid(f88a11cbe607793498323fea66956d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14fe0116162e5540dbf51d0469825866') in 0.006841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.519969 seconds.
+  path: Assets/Scripts/RegularEnemyAI.cs
+  artifactKey: Guid(5e0f74331168a954f8dd27efb5efd7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RegularEnemyAI.cs using Guid(5e0f74331168a954f8dd27efb5efd7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532a7820ddcaa0c979805784bd9c77c7') in 0.003229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.411019 seconds.
+  path: Assets/Scripts/SceneSwitcher.cs
+  artifactKey: Guid(e55b16169aefd6f48a94bcd9a024d2d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SceneSwitcher.cs using Guid(e55b16169aefd6f48a94bcd9a024d2d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1810e2ffc192fe31339ef0dd50cc0171') in 0.007531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.698203 seconds.
+  path: Assets/Scripts/TheTwoTowersDoors.cs
+  artifactKey: Guid(83e7727a996856c4a863052e0f0e66d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TheTwoTowersDoors.cs using Guid(83e7727a996856c4a863052e0f0e66d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4aede9454a21715d0fd2328cc9bd86') in 0.007423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.677811 seconds.
+  path: Assets/Scripts/ThirdPersonShooterController.cs
+  artifactKey: Guid(b85c7bac6b5c9384ba357757aedc6603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ThirdPersonShooterController.cs using Guid(b85c7bac6b5c9384ba357757aedc6603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08092e2f0d027a2fac0c90be9787d6b0') in 0.016460 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.181604 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.714 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1715ms)
+		BeginReloadAssembly (178ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1464ms)
+			LoadAssemblies (189ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (468ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (516ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (415ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4642 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.8 MB.
+System memory in use after: 198.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5304.
+Total: 5.226900 ms (FindLiveObjects: 0.531800 ms CreateObjectMapping: 0.169700 ms MarkObjects: 4.499000 ms  DeleteObjects: 0.025200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008672 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.666 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1667ms)
+		BeginReloadAssembly (185ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1402ms)
+			LoadAssemblies (172ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (494ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (531ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (427ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4642 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.6 MB.
+System memory in use after: 197.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5306.
+Total: 5.096800 ms (FindLiveObjects: 0.488800 ms CreateObjectMapping: 0.144500 ms MarkObjects: 4.440900 ms  DeleteObjects: 0.021100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 233.097311 seconds.
+  path: Assets/Scripts/Doors
+  artifactKey: Guid(bb39c0a55a962434ba93044dcf461c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Doors using Guid(bb39c0a55a962434ba93044dcf461c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44758793bd0e64f242df1b65936e6211') in 0.015300 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008244 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.630 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1631ms)
+		BeginReloadAssembly (179ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1380ms)
+			LoadAssemblies (158ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (499ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (517ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (413ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4642 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.8 MB.
+System memory in use after: 198.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5308.
+Total: 5.337900 ms (FindLiveObjects: 0.513200 ms CreateObjectMapping: 0.158900 ms MarkObjects: 4.642300 ms  DeleteObjects: 0.022000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 16.644078 seconds.
+  path: Assets/Animations/Enemies/Pirate1Run.fbx
+  artifactKey: Guid(70035d0f0c7f28f488637b855bd7a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemies/Pirate1Run.fbx using Guid(70035d0f0c7f28f488637b855bd7a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fb7741f8330116a87c57a06355d7a9') in 0.038204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.601861 seconds.
+  path: Assets/Animations/Enemies/Pirate1Run.fbx
+  artifactKey: Guid(70035d0f0c7f28f488637b855bd7a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemies/Pirate1Run.fbx using Guid(70035d0f0c7f28f488637b855bd7a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da167b355ceab9742b1ceea0d0a9c67') in 0.007367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.171280 seconds.
+  path: Assets/Animations/Enemies/Pirate1Shoot.fbx
+  artifactKey: Guid(a26d8530463253a4690e852e28ecb517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemies/Pirate1Shoot.fbx using Guid(a26d8530463253a4690e852e28ecb517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f6c1b746f06d4756bda5f5a1c4822a') in 0.007811 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008730 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Game\3d\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.640 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1641ms)
+		BeginReloadAssembly (174ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1391ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (492ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (534ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (434ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4642 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.8 MB.
+System memory in use after: 198.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5310.
+Total: 5.073200 ms (FindLiveObjects: 0.506200 ms CreateObjectMapping: 0.145300 ms MarkObjects: 4.398200 ms  DeleteObjects: 0.021900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

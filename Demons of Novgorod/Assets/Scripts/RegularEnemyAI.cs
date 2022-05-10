@@ -7,6 +7,8 @@ public class RegularEnemyAI : MonoBehaviour
 {
     public NavMeshAgent agent;
 
+    public Animator animator;
+
     public Transform player;
     public LayerMask whatIsGround, whatIsPlayer;
 
@@ -40,16 +42,25 @@ public class RegularEnemyAI : MonoBehaviour
 
         if (!playerInSight && !playerInAttackRange)
         {
+            animator.SetBool("isShooting", false);
+            animator.SetBool("isRunning", true);
+
             Patrolling();
         }
 
         if (playerInSight && !playerInAttackRange)
         {
+            animator.SetBool("isShooting", false);
+            animator.SetBool("isRunning", true);
+
             ChasePlayer();
         }
 
         if (playerInAttackRange && playerInSight)
         {
+            animator.SetBool("isShooting", true);
+            animator.SetBool("isRunning", false);
+
             AttackPlayer();
         }
     }
@@ -73,6 +84,8 @@ public class RegularEnemyAI : MonoBehaviour
         {
             walkPointSet = false;
         }
+
+        
     }
 
     private void SearchWalkPoint()
