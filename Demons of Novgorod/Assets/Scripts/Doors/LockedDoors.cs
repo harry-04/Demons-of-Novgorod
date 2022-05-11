@@ -33,7 +33,6 @@ public class LockedDoors : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E) && player.GetComponent<ThirdPersonShooterController>().hasKey)
         {
             player.GetComponent<CharacterController>().enabled = false;
-            nextRoom.SetActive(true);
             doorOpenSound.Play();
 
             //fade out for 2 seconds
@@ -59,6 +58,7 @@ public class LockedDoors : MonoBehaviour
     public void NextRoom()
     {
         player.transform.position = doorLeadsTo;
+        nextRoom.SetActive(true);
         previousRoom.SetActive(false);
         fadeToBlack.SetActive(false);
         player.GetComponent<CharacterController>().enabled = true;
