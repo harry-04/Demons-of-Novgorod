@@ -29,7 +29,6 @@ public class RegularEnemyAI : MonoBehaviour
 
     private void Awake()
     {
-        player = GameObject.Find("Phoenix").transform;
         agent = GetComponent<NavMeshAgent>();
     }
     
@@ -42,10 +41,10 @@ public class RegularEnemyAI : MonoBehaviour
 
         if (!playerInSight && !playerInAttackRange)
         {
-            animator.SetBool("isShooting", false);
-            animator.SetBool("isRunning", true);
+            //animator.SetBool("isShooting", false);
+            //animator.SetBool("isRunning", true);
 
-            Patrolling();
+            //Patrolling();
         }
 
         if (playerInSight && !playerInAttackRange)
