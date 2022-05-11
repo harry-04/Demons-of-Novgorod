@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7055,9 +7055,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 2055501280}
   nextRoom: {fileID: 1031481221}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!4 &290213704
 Transform:
   m_ObjectHideFlags: 0
@@ -12618,9 +12618,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 1031481221}
   nextRoom: {fileID: 2055501280}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!1 &497306498
 GameObject:
   m_ObjectHideFlags: 0
@@ -16795,9 +16795,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 2051959273}
   nextRoom: {fileID: 2055501280}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!1 &656597142
 GameObject:
   m_ObjectHideFlags: 0
@@ -30619,6 +30619,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 836803365}
   nextRoom: {fileID: 1453340465}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
   thisDoorIsLockedUI: {fileID: 1967287466}
 --- !u!65 &1229192388
 BoxCollider:
@@ -33067,7 +33070,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 13b202c148fd78149b3b18813316e26e, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -35090,7 +35093,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b3c9697b6e8267d4687838959632b6bd, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.2
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -41927,9 +41930,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 1031481221}
   nextRoom: {fileID: 836803365}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!1 &1650690199
 GameObject:
   m_ObjectHideFlags: 0
@@ -42435,9 +42438,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 836803365}
   nextRoom: {fileID: 289472082}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!1 &1675484880
 GameObject:
   m_ObjectHideFlags: 0
@@ -42646,6 +42649,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1683353750}
   - component: {fileID: 1683353749}
+  - component: {fileID: 1683353751}
   m_Layer: 0
   m_Name: AudioManager
   m_TagString: Untagged
@@ -42687,6 +42691,13 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: Light Buzz
+    clip: {fileID: 8300000, guid: 489a382b40dd61e42827cd67cb7682be, type: 3}
+    mixer: {fileID: 0}
+    volume: 0.6
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
 --- !u!4 &1683353750
 Transform:
   m_ObjectHideFlags: 0
@@ -42701,6 +42712,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1683353751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1683353748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94266c11cdc78314e9c3b0564e04ab3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  engineRoom: {fileID: 289472082}
+  corridor: {fileID: 836803365}
+  room303: {fileID: 1453340465}
+  cafeteria: {fileID: 1031481221}
+  corridor2: {fileID: 2055501280}
+  weaponsRoom: {fileID: 2051959273}
 --- !u!1 &1690641150
 GameObject:
   m_ObjectHideFlags: 0
@@ -54166,9 +54195,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 836803365}
   nextRoom: {fileID: 1031481221}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!1 &2021952778
 GameObject:
   m_ObjectHideFlags: 0
@@ -57099,7 +57128,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: e5fd6469057b7f44a98d28d4dbb0ad41, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -67189,9 +67218,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 1453340465}
   nextRoom: {fileID: 836803365}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!33 &1376724105400940167
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -78189,9 +78218,9 @@ MonoBehaviour:
   player: {fileID: 1566364215}
   previousRoom: {fileID: 2055501280}
   nextRoom: {fileID: 2051959273}
-  fadeToBlack: {fileID: 0}
-  doorOpenSound: {fileID: 0}
-  doorCloseSound: {fileID: 0}
+  fadeToBlack: {fileID: 1916561041}
+  doorOpenSound: {fileID: 1310545484}
+  doorCloseSound: {fileID: 2131015212}
 --- !u!33 &2907389195560794771
 MeshFilter:
   m_ObjectHideFlags: 0

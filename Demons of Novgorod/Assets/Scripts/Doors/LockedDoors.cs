@@ -9,6 +9,10 @@ public class LockedDoors : MonoBehaviour
     public GameObject player;
     public GameObject previousRoom;
     public GameObject nextRoom;
+    public GameObject fadeToBlack;
+
+    public AudioSource doorOpenSound;
+    public AudioSource doorCloseSound;
 
     public GameObject thisDoorIsLockedUI;
 
@@ -30,10 +34,12 @@ public class LockedDoors : MonoBehaviour
         {
             player.GetComponent<CharacterController>().enabled = false;
             nextRoom.SetActive(true);
-            player.transform.position = doorLeadsTo;
-            previousRoom.SetActive(false);
-            player.GetComponent<CharacterController>().enabled = true;
-            Debug.Log("A door has been unlocked");
+            doorOpenSound.Play();
+
+            //fade out for 2 seconds
+            fadeToBlack.SetActive(true);
+
+            Invoke("NextRoom", 2);
         }
         else if (Input.GetKeyDown(KeyCode.E) && player.GetComponent<ThirdPersonShooterController>().hasKey == false)
         {
@@ -48,5 +54,15 @@ public class LockedDoors : MonoBehaviour
     void DisableDoorLockedText()
     {
         thisDoorIsLockedUI.SetActive(false);
+    }
+
+    public void NextRoom()
+    {
+        player.transform.position = doorLeadsTo;
+        previousRoom.SetActive(false);
+        fadeToBlack.SetActive(false);
+        player.GetComponent<CharacterController>().enabled = true;
+        doorCloseSound.Play();
+        Debug.Log("A door has been unlocked");
     }
 }
