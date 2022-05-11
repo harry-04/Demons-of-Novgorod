@@ -10,6 +10,7 @@ TagManager:
   - PlayerAimCamera
   - PlayerFollowCamera
   - WayPoints
+  - PhoenixAim
   layers:
   - Default
   - TransparentFX

@@ -9,7 +9,12 @@ public class Doors : MonoBehaviour
     public GameObject player;
     public GameObject previousRoom;
     public GameObject nextRoom;
-    
+    public GameObject fadeToBlack;
+
+    public AudioSource doorOpenSound;
+    public AudioSource doorCloseSound;
+
+
     void Start()
     {
         
@@ -27,10 +32,23 @@ public class Doors : MonoBehaviour
         {
             player.GetComponent<CharacterController>().enabled = false;
             nextRoom.SetActive(true);
-            player.transform.position = doorLeadsTo;
-            previousRoom.SetActive(false);
-            player.GetComponent<CharacterController>().enabled = true;
-            Debug.Log("AKSDNOAINDIOAN");
+            doorOpenSound.Play();
+
+            //fade out for 2 seconds
+            fadeToBlack.SetActive(true);
+
+
+            Invoke("NextRoom", 2);
         }
+    }
+
+    public void NextRoom()
+    {
+        player.transform.position = doorLeadsTo;
+        previousRoom.SetActive(false);
+        fadeToBlack.SetActive(false);
+        player.GetComponent<CharacterController>().enabled = true;
+        doorCloseSound.Play();
+        Debug.Log("AKSDNOAINDIOAN");
     }
 }

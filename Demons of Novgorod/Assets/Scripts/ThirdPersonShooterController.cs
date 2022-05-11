@@ -34,6 +34,9 @@ public class ThirdPersonShooterController : MonoBehaviour
 
     public bool hasKey;
 
+    //footstep sound effect
+    public AudioSource footstep;
+
 
 
     private void Awake()
@@ -129,6 +132,7 @@ public class ThirdPersonShooterController : MonoBehaviour
             }
 
             animator.SetTrigger("canShoot");
+            AudioManager.instance.Play("Gunshot");
             starterAssetsInputs.shoot = false;
             gameObject.GetComponent<GunScript>().loadedAmmo --;
         }
@@ -164,6 +168,11 @@ public class ThirdPersonShooterController : MonoBehaviour
             starterAssetsInputs.throwgrenade = false;
         }
 
+        if (Input.GetMouseButtonDown(1))
+        {
+            AudioManager.instance.Play("PistolAim");
+        }
+
     }
 
     public void ThrowGrenade()
@@ -185,7 +194,12 @@ public class ThirdPersonShooterController : MonoBehaviour
         pistol.transform.position = new Vector3(0, 0, 0);
     }
 
+    public void Footstep()
+    {
+        footstep.Play();
+    }
 
+    
 
     
 

@@ -30,6 +30,7 @@ public class GunScript : MonoBehaviour
         if (starterAssetsInputs.reload && overallAmmo > 0)
         {
             Reload();
+            AudioManager.instance.Play("PistolReload");
             starterAssetsInputs.reload = false;
         }
     }
