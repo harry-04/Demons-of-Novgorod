@@ -13,6 +13,7 @@ public class LockedDoors : MonoBehaviour
 
     public AudioSource doorOpenSound;
     public AudioSource doorCloseSound;
+    public AudioSource doorLockedSound;
 
     public GameObject thisDoorIsLockedUI;
 
@@ -44,6 +45,7 @@ public class LockedDoors : MonoBehaviour
         {
             Debug.Log("This door is locked");
             thisDoorIsLockedUI.SetActive(true);
+            doorLockedSound.Play();
             Invoke("DisableDoorLockedText", 5f);
 
         }

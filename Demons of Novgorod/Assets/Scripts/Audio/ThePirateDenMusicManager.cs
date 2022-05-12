@@ -11,17 +11,20 @@ public class ThePirateDenMusicManager : MonoBehaviour
 
     public GameObject mainHallMusic;
     public GameObject diningRoomAmbient;
+    public GameObject spookyWind;
 
     void Start()
     {
         mainHallMusic.SetActive(false);
         diningRoomAmbient.SetActive(false);
+        spookyWind.SetActive(false);
     }
 
     void Update()
     {
         if (mainHall.activeSelf)
         {
+            spookyWind.SetActive(false);
             diningRoomAmbient.SetActive(false);
             mainHallMusic.SetActive(true);
         }
@@ -31,6 +34,12 @@ public class ThePirateDenMusicManager : MonoBehaviour
         {
             mainHallMusic.SetActive(false);
             diningRoomAmbient.SetActive(true);
+        }
+
+        if (corridorToThePirateDen.activeSelf)
+        {
+            mainHallMusic.SetActive(false);
+            spookyWind.SetActive(true);
         }
 
         
