@@ -32,6 +32,9 @@ public class ThirdPersonShooterController : MonoBehaviour
     private float damage;
     private bool canShoot;
 
+    public float fireRate = 15f;
+    private float nextTimeToFire = 0f;
+
     public bool hasKey;
 
     //footstep sound effect
@@ -98,7 +101,7 @@ public class ThirdPersonShooterController : MonoBehaviour
         }
 
         
-        if (starterAssetsInputs.shoot && canShoot == true && gameObject.GetComponent<GunScript>().loadedAmmo > 0)
+        if (starterAssetsInputs.shoot && canShoot == true && gameObject.GetComponent<GunScript>().loadedAmmo > 0 && Time.time >= nextTimeToFire)
         {
             if (hitTransform != null)
             {
@@ -140,6 +143,7 @@ public class ThirdPersonShooterController : MonoBehaviour
 
             }
 
+            nextTimeToFire = Time.time + 1f / fireRate;
             animator.SetTrigger("canShoot");
             AudioManager.instance.Play("Gunshot");
             starterAssetsInputs.shoot = false;
