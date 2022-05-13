@@ -127,6 +127,14 @@ public class ThirdPersonShooterController : MonoBehaviour
                     buttonScript.OpenDoor();
                 }
 
+                if (hitTransform.GetComponent<Destructible>() != null)
+                {
+                    Destructible destructible = hitTransform.GetComponent<Destructible>();
+
+                    Instantiate(vfxHitGreen, raycastHit.point, Quaternion.identity);
+                    destructible.Shatter();
+                }
+
 
 
             }
