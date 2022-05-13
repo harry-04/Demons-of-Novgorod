@@ -11,6 +11,7 @@ TagManager:
   - PlayerFollowCamera
   - WayPoints
   - PhoenixAim
+  - DestructibleObject
   layers:
   - Default
   - TransparentFX

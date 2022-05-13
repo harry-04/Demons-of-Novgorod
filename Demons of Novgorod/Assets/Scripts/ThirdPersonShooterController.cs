@@ -94,6 +94,7 @@ public class ThirdPersonShooterController : MonoBehaviour
             pistol.SetActive(false);
             crosshair.SetActive(false);
             canShoot = false;
+            starterAssetsInputs.shoot = false;
         }
 
         
