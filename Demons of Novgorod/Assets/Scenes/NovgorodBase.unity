@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: e2767d010e3b74d4f9779bdfe307a14c, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -29791,6 +29791,7 @@ MonoBehaviour:
   grenadePoint: {fileID: 1534126599}
   pistol: {fileID: 919132147887469041}
   crosshair: {fileID: 1059327358}
+  fireRate: 15
   hasKey: 0
   footstep: {fileID: 567741234}
 --- !u!114 &4416926083123393570
