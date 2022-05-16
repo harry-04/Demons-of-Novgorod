@@ -15,7 +15,10 @@ public class Destructible : MonoBehaviour
     {
         Instantiate(destroyedVersion, transform.position, transform.rotation);
         AudioManager.instance.Play("PotBreak");
-        loot.SetActive(true);
+        if (loot != null)
+        {
+            loot.SetActive(true);
+        }
         Destroy(gameObject);
         GetShatteredBits();
     }
