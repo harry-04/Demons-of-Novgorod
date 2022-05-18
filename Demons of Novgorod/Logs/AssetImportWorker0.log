@@ -4436,3 +4436,936 @@ Received Import Request.
   path: Assets/Objects/SpiralStairs/Materials/StairsWood_roughness.mat
   artifactKey: Guid(b42e47dab1f85404e820a4b4ded973bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Objects/SpiralStairs/Materials/StairsWood_roughness.mat using Guid(b42e47dab1f85404e820a4b4ded973bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b5165d422eca50830a0ac86be80895') in 0.009454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 254.633697 seconds.
+  path: Assets/Objects/SpiralStairs/textures/StoneCylinder_normal.png
+  artifactKey: Guid(9f72830a981d59d4ea1c91b5523aea3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/SpiralStairs/textures/StoneCylinder_normal.png using Guid(9f72830a981d59d4ea1c91b5523aea3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb14c94f4e324917ee41d21b37693d7a') in 0.013415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 85.530663 seconds.
+  path: Assets/Sprites and Textures/HealthBarOutline.png
+  artifactKey: Guid(44da8550eaec80042b9ebf3ce34e5e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/HealthBarOutline.png using Guid(44da8550eaec80042b9ebf3ce34e5e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b796f2cf8bdef00614d3b87e4547512') in 0.024097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.848787 seconds.
+  path: Assets/Sprites and Textures/Materials/DarkWoodCeiling.mat
+  artifactKey: Guid(891c158e1f37196418bbb88e92ed38fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/DarkWoodCeiling.mat using Guid(891c158e1f37196418bbb88e92ed38fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8809b1ab7f186f915a16da0bea54908') in 0.012389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sprites and Textures/Materials/KitchenFloor.mat
+  artifactKey: Guid(b1599bcf0ac0f374392ce259dcf96185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/KitchenFloor.mat using Guid(b1599bcf0ac0f374392ce259dcf96185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb61d263fa49445f0c67a2024323e26f') in 0.010130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Sprites and Textures/Materials/DarkWoodWall.mat
+  artifactKey: Guid(597401dbd27ae1b44941443fbd380e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/DarkWoodWall.mat using Guid(597401dbd27ae1b44941443fbd380e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7562386d4a33e5b769d5d4587427ca6') in 0.011093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Sprites and Textures/Materials/Fire_Glow.mat
+  artifactKey: Guid(4b3b1aaf0996ca84b91fa50435a861c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/Fire_Glow.mat using Guid(4b3b1aaf0996ca84b91fa50435a861c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b41538991575c99b1e102cc4f1588e') in 0.018865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sprites and Textures/Materials/OutOfOrder.mat
+  artifactKey: Guid(ed4d23c45ab464048b4b9d2ed7438f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/OutOfOrder.mat using Guid(ed4d23c45ab464048b4b9d2ed7438f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc22f3666519231d41d5305c86b3d525') in 0.009074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Sprites and Textures/Materials/wooddesign.mat
+  artifactKey: Guid(d4f4487e7c0f84b40939a08134e56c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/wooddesign.mat using Guid(d4f4487e7c0f84b40939a08134e56c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96634d4bb49d8d229201927721b60bfe') in 0.010437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Sprites and Textures/Materials/DiningRoomFloor.mat
+  artifactKey: Guid(2753e2d92d850fd408c13bf95e293ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/DiningRoomFloor.mat using Guid(2753e2d92d850fd408c13bf95e293ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4e4297041d9ac8f5946b5e9068ca7e') in 0.009698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites and Textures/Materials/Fire_Spark.mat
+  artifactKey: Guid(7997045ddb919624285baadb3d8a69d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/Fire_Spark.mat using Guid(7997045ddb919624285baadb3d8a69d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579c54abaec082269192db987c1ed254') in 0.012042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites and Textures/Materials/Fire_Add.mat
+  artifactKey: Guid(894e216fe62924d459b2b2cb8d51c33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/Fire_Add.mat using Guid(894e216fe62924d459b2b2cb8d51c33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff54e47952f7f411bb2f473c4de569a6') in 0.008910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Sprites and Textures/Materials/Fire_Alpha.mat
+  artifactKey: Guid(a7783d9161175a94f95ffdc7d97b5b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/Fire_Alpha.mat using Guid(a7783d9161175a94f95ffdc7d97b5b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00de6f25f23bdf2c31f8fd9b09072124') in 0.016130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites and Textures/Materials/MarbleFloorLibrary.mat
+  artifactKey: Guid(e4a3ae81c6c3e484fba1a116ff426245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/MarbleFloorLibrary.mat using Guid(e4a3ae81c6c3e484fba1a116ff426245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b9c259553c7f894798a01df4d8e294') in 0.010677 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004525 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.384 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1384ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (1194ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (405ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (437ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (341ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 260.4 MB.
+System memory in use after: 260.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 5944.
+Total: 4.918800 ms (FindLiveObjects: 0.389500 ms CreateObjectMapping: 0.250100 ms MarkObjects: 4.238500 ms  DeleteObjects: 0.039800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1128.525835 seconds.
+  path: Assets/Objects/WeaponsRoomDoor/textures/door1AO.png
+  artifactKey: Guid(c3c17b9b36cbf3647834eff15c2f0ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WeaponsRoomDoor/textures/door1AO.png using Guid(c3c17b9b36cbf3647834eff15c2f0ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955d3a525f6f61c5b1ea6992d7e13295') in 0.049617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Objects/The Two Towers Door/textures/Door_Height_Lion.png
+  artifactKey: Guid(e9ae333113f690247b0e1b6bc84d1358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/The Two Towers Door/textures/Door_Height_Lion.png using Guid(e9ae333113f690247b0e1b6bc84d1358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf3af03d04eb15aeef309457a3e2ffa') in 0.034385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Objects/KitchenCounter/textures/Doors_Normal_OpenGL.png
+  artifactKey: Guid(63b6bbeca56f66f4f8c5b0009512ae4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCounter/textures/Doors_Normal_OpenGL.png using Guid(63b6bbeca56f66f4f8c5b0009512ae4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30e01799a52decb5e5f8591dac99661') in 0.014535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Objects/Fancy Door/textures/Door_Default_Normal.png
+  artifactKey: Guid(3e20d1c742144a344bb47aeb0da1d22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Fancy Door/textures/Door_Default_Normal.png using Guid(3e20d1c742144a344bb47aeb0da1d22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11183a2229a89ee6e82f99dd06442f4') in 0.015507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Objects/KitchenCupboards/textures/Doors_Roughness.png
+  artifactKey: Guid(791b73325644ee445ac79be48120a594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCupboards/textures/Doors_Roughness.png using Guid(791b73325644ee445ac79be48120a594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d1120950162c64f539cb351d4697e8') in 0.022941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Objects/KitchenCupboards/source/Hanging Kitchen Cupboards.fbx
+  artifactKey: Guid(c19a33ccafc6944458cebc3d71e9f18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCupboards/source/Hanging Kitchen Cupboards.fbx using Guid(c19a33ccafc6944458cebc3d71e9f18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad717bebeb2d35297a27f12f106030a') in 0.148179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Objects/KitchenCounter/source/Kitchen Counter.fbx
+  artifactKey: Guid(1fc1a4e7dd7b45141983d58521a9c589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCounter/source/Kitchen Counter.fbx using Guid(1fc1a4e7dd7b45141983d58521a9c589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3193ce3e183d4351fd12dfa15e798450') in 0.064227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Objects/ElevatorDoors/source/elevator-door.obj
+  artifactKey: Guid(24960c9265ea7ed4db5d333ad2e7c32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/ElevatorDoors/source/elevator-door.obj using Guid(24960c9265ea7ed4db5d333ad2e7c32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d7a37fca0951e489e62ead320e8329') in 0.037806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Objects/The Two Towers Door/textures/Door_Rough.png
+  artifactKey: Guid(50685f1fe3d3f6c44b30da610d6ba9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/The Two Towers Door/textures/Door_Rough.png using Guid(50685f1fe3d3f6c44b30da610d6ba9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0903d43bf3c12ada3a2def7b001ab00') in 0.016989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objects/Fancy Door/textures/Door_Default_MetallicSmoothness.png
+  artifactKey: Guid(a39e408dae928de43a025af5c057af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Fancy Door/textures/Door_Default_MetallicSmoothness.png using Guid(a39e408dae928de43a025af5c057af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe481ba496dbc27d70074808f4c1a576') in 0.008694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Objects/WeaponsRoomDoor/textures/door1Color.png
+  artifactKey: Guid(89b96beb4d3ed7b4289b53850a8dcd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WeaponsRoomDoor/textures/door1Color.png using Guid(89b96beb4d3ed7b4289b53850a8dcd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c923ec210819e0fac2b0c5297628c98') in 0.009763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Objects/Fancy Door/textures/Door_Default_Albedo.png
+  artifactKey: Guid(73341a8618efb3246a1a22f7908ce24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Fancy Door/textures/Door_Default_Albedo.png using Guid(73341a8618efb3246a1a22f7908ce24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d75fd8c8a421bb6be6fe30df4e1a50') in 0.008863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Objects/ElevatorDoors/Materials/elevator-door.mat
+  artifactKey: Guid(141ef802f011ff84bba521d2027110cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/ElevatorDoors/Materials/elevator-door.mat using Guid(141ef802f011ff84bba521d2027110cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad988f16ac4ab4239c712c0bd299a1a5') in 0.010904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Objects/ElevatorDoors/textures/elevator-door.jpeg
+  artifactKey: Guid(f3f90b02c66e8b74c889c71641958fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/ElevatorDoors/textures/elevator-door.jpeg using Guid(f3f90b02c66e8b74c889c71641958fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81a92ffcb8d6240cea2092cb753a11c') in 0.007596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Objects/The Two Towers Door/textures/Door_AO.png
+  artifactKey: Guid(f4f3719f02e7d6b47968fa86d0adfcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/The Two Towers Door/textures/Door_AO.png using Guid(f4f3719f02e7d6b47968fa86d0adfcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d8b26361304fdaef3cfc90eacda444') in 0.016928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Objects/The Two Towers Door/textures/Door_Metallic.png
+  artifactKey: Guid(f94eebe58b67c774bb3edd1a05a97dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/The Two Towers Door/textures/Door_Metallic.png using Guid(f94eebe58b67c774bb3edd1a05a97dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5fc97ec0ad89563925f0259ad5dded') in 0.016319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Objects/WeaponsRoomDoor/textures/door1Normal.png
+  artifactKey: Guid(885db65f79c448243952bc2cf6a660e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WeaponsRoomDoor/textures/door1Normal.png using Guid(885db65f79c448243952bc2cf6a660e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f909cead7b408f236b1347346b347e') in 0.010464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Audio/DoorLocked.wav
+  artifactKey: Guid(6fab8176c4e1cf746b6e9b082e54d605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/DoorLocked.wav using Guid(6fab8176c4e1cf746b6e9b082e54d605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb2709825b565972f876d6d69268998') in 0.016360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Objects/WeaponsRoomDoor/textures/door1Roughness.png
+  artifactKey: Guid(ce2f8a206498ca8478aecf121e8a7b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WeaponsRoomDoor/textures/door1Roughness.png using Guid(ce2f8a206498ca8478aecf121e8a7b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbfab56773824a771ce461f7769d0e3') in 0.015402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objects/KitchenCupboards/textures/Doors_Mixed_AO.png
+  artifactKey: Guid(cc3c7afc8e22eb2408fe4d7f6d55f094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCupboards/textures/Doors_Mixed_AO.png using Guid(cc3c7afc8e22eb2408fe4d7f6d55f094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da8c9aead69edd898ff729e6811b8df') in 0.009623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Objects/KitchenCounter/textures/Doors_Roughness.png
+  artifactKey: Guid(4197cbac7d715d84daeca3eae4697f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCounter/textures/Doors_Roughness.png using Guid(4197cbac7d715d84daeca3eae4697f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554cf85fa0b518df029d992c76776115') in 0.014043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Objects/The Two Towers Door/textures/Door_BaseColor.png
+  artifactKey: Guid(09034d5db38bbde448a87e11408dbfc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/The Two Towers Door/textures/Door_BaseColor.png using Guid(09034d5db38bbde448a87e11408dbfc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0885d01728f8d2a6fad188124828c636') in 0.016701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Objects/KitchenCounter/Materials/Doors_Base_Color.mat
+  artifactKey: Guid(7b2c61452af05d74e85d5ddc13e8b3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCounter/Materials/Doors_Base_Color.mat using Guid(7b2c61452af05d74e85d5ddc13e8b3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938630dea9f9ccc5d6c0ec077d2ac23d') in 0.016633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objects/KitchenCupboards/Materials/Doors_Base_color.mat
+  artifactKey: Guid(70ed92c8d821d02469f76c9c28de5397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCupboards/Materials/Doors_Base_color.mat using Guid(70ed92c8d821d02469f76c9c28de5397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56f30e7d24c0cc601d22b0ddd92083a') in 0.015231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Audio/WoodenDoorOpen.wav
+  artifactKey: Guid(a19fe58f45705454d811d3a126200258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/WoodenDoorOpen.wav using Guid(a19fe58f45705454d811d3a126200258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcb7a093c90c032730ce347fd637125') in 0.007784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Audio/WoodenDoorClose.wav
+  artifactKey: Guid(f0b5feba4bcc0254fa5723f2d327ca42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/WoodenDoorClose.wav using Guid(f0b5feba4bcc0254fa5723f2d327ca42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3710e747d5d1be383213b328d4e54e') in 0.008291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Objects/Fancy Door/textures/Door_Default_AO.png
+  artifactKey: Guid(4cf307214201b7541924657abbb1a7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Fancy Door/textures/Door_Default_AO.png using Guid(4cf307214201b7541924657abbb1a7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4faf04d5f1841ce596527d095e75874') in 0.008422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Objects/KitchenCupboards/textures/Doors_Base_color.png
+  artifactKey: Guid(c6c6700c353b1a74a81b3b6c71d72a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCupboards/textures/Doors_Base_color.png using Guid(c6c6700c353b1a74a81b3b6c71d72a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccccdfa1ed9ac216dfdc9149c26bfde5') in 0.009993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Objects/WeaponsRoomDoor/textures/door1Metallic.png
+  artifactKey: Guid(e81a87775dff02047874b35bb6ca4e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WeaponsRoomDoor/textures/door1Metallic.png using Guid(e81a87775dff02047874b35bb6ca4e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c4cc93657575936d14813230c8f426') in 0.014991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objects/KitchenCounter/textures/Doors_Base_Color.png
+  artifactKey: Guid(b0aa4ef1707290d428577e2e7e38a26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCounter/textures/Doors_Base_Color.png using Guid(b0aa4ef1707290d428577e2e7e38a26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46908688f76168cf52e0ef71fad5c993') in 0.010303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Objects/KitchenCounter/textures/Doors_Mixed_AO.png
+  artifactKey: Guid(8604c6b87dff62f4bb604f7d9c9372d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCounter/textures/Doors_Mixed_AO.png using Guid(8604c6b87dff62f4bb604f7d9c9372d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9055507843c4e3d3ec778352a84f68') in 0.008479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Objects/KitchenCupboards/textures/Doors_Normal_OpenGL.png
+  artifactKey: Guid(1ae9ded0216f53841a18601df8e544a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/KitchenCupboards/textures/Doors_Normal_OpenGL.png using Guid(1ae9ded0216f53841a18601df8e544a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f518d9d74d2e60a1b678436f3ae1385') in 0.010664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.194040 seconds.
+  path: Assets/Objects/DiningRoomDoor
+  artifactKey: Guid(28acb991b8e9a90479b49d6c6d2ff2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/DiningRoomDoor using Guid(28acb991b8e9a90479b49d6c6d2ff2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905e0f3ca204026c43b179b14c095777') in 0.004709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.998850 seconds.
+  path: Assets/Objects/ElevatorDoors
+  artifactKey: Guid(21b1b2e60ae3df344b32252ebb28cc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/ElevatorDoors using Guid(21b1b2e60ae3df344b32252ebb28cc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9e4ed08f437c1863bc1d72be2b47d6') in 0.005132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.704434 seconds.
+  path: Assets/Objects/Fancy Door
+  artifactKey: Guid(04648a08b2506d1428ffdcebcdf2a84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Fancy Door using Guid(04648a08b2506d1428ffdcebcdf2a84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133185b3a0d485097cc88f43bd94bb35') in 0.004399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.885699 seconds.
+  path: Assets/Objects/Ship Door
+  artifactKey: Guid(bfe607398f957e8478aa2c28f465a1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Ship Door using Guid(bfe607398f957e8478aa2c28f465a1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164693181210645c2fe1b92a6499c080') in 0.006779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.721303 seconds.
+  path: Assets/Objects/WeaponsRoomDoor
+  artifactKey: Guid(332f3900f6b849144b1f04300309cca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WeaponsRoomDoor using Guid(332f3900f6b849144b1f04300309cca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19aec60407fac6526b6e7d95e7b0ff0') in 0.004488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.861357 seconds.
+  path: Assets/Objects/MedievalDoor
+  artifactKey: Guid(c4e3ae26bfbefde478cf6ee649e16d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor using Guid(c4e3ae26bfbefde478cf6ee649e16d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92fb53e445bb0749a8c4216aaabbcf75') in 0.005106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.888158 seconds.
+  path: Assets/Objects/MedievalDoor/source
+  artifactKey: Guid(76e6482001a19ff499ffa7ee763261c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/source using Guid(76e6482001a19ff499ffa7ee763261c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5785e8073025b700accb9870bd8cfd7f') in 0.004247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.064889 seconds.
+  path: Assets/Objects/MedievalDoor/source/anim_door.fbx
+  artifactKey: Guid(c2e93c3199d672a489a7ba24a45aa31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/source/anim_door.fbx using Guid(c2e93c3199d672a489a7ba24a45aa31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a183366276e059d14246715bfb1c73a') in 0.032723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.124496 seconds.
+  path: Assets/Objects/MedievalDoor/textures
+  artifactKey: Guid(177b4d667f4c1064186fe1f028ebd924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures using Guid(177b4d667f4c1064186fe1f028ebd924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bd906fe0551c9ca64342a985db7983') in 0.001547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051999 seconds.
+  path: Assets/Objects/MedievalDoor/textures/DefaultMaterial_albedo.jpg
+  artifactKey: Guid(bd1d35b96bb2da046b9ff7bcc61f5ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures/DefaultMaterial_albedo.jpg using Guid(bd1d35b96bb2da046b9ff7bcc61f5ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e774a9a0de5211c8676272daf17b1ca') in 0.017448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Objects/MedievalDoor/textures/DefaultMaterial_roughness.jpg
+  artifactKey: Guid(25d3356cf343fa44e909907ab527176d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures/DefaultMaterial_roughness.jpg using Guid(25d3356cf343fa44e909907ab527176d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb1d93c43ce6e9c7d42f84d300769ff') in 0.009802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Objects/MedievalDoor/textures/DefaultMaterial_AO.jpg
+  artifactKey: Guid(d7a412f6c45ccd747847f8bdaa775e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures/DefaultMaterial_AO.jpg using Guid(d7a412f6c45ccd747847f8bdaa775e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d7b7d24a723ca9f96b8ed1d89ddeb4') in 0.008888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Objects/MedievalDoor/textures/DefaultMaterial_metallic.jpg
+  artifactKey: Guid(55a5a7e7ac4763c488a81030b88fba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures/DefaultMaterial_metallic.jpg using Guid(55a5a7e7ac4763c488a81030b88fba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f91df5e712aafd8e2cb2ce2ce916468') in 0.009692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Objects/MedievalDoor/textures/DefaultMaterial_normal.jpg
+  artifactKey: Guid(9803c2f730cb3844c82e1f5db8d424b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures/DefaultMaterial_normal.jpg using Guid(9803c2f730cb3844c82e1f5db8d424b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2688f8bc967c7f23b58414a5eafef38') in 0.009467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.822708 seconds.
+  path: Assets/Objects/MedievalDoor/textures/DefaultMaterial_normal.jpg
+  artifactKey: Guid(9803c2f730cb3844c82e1f5db8d424b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/MedievalDoor/textures/DefaultMaterial_normal.jpg using Guid(9803c2f730cb3844c82e1f5db8d424b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd342436e5309cabf8d2609981fc19a69') in 0.010824 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004623 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.366 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1367ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1181ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (383ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (426ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (334ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 350.5 MB.
+System memory in use after: 351.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6418.
+Total: 5.108300 ms (FindLiveObjects: 0.491400 ms CreateObjectMapping: 0.356700 ms MarkObjects: 4.234200 ms  DeleteObjects: 0.024900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004436 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1279ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (1092ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (375ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (423ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (331ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4655 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 349.6 MB.
+System memory in use after: 350.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6420.
+Total: 4.409200 ms (FindLiveObjects: 0.745900 ms CreateObjectMapping: 0.277700 ms MarkObjects: 3.340400 ms  DeleteObjects: 0.044200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004339 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1266ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1102ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (383ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (422ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (324ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4655 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 349.4 MB.
+System memory in use after: 349.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6422.
+Total: 5.092700 ms (FindLiveObjects: 0.535900 ms CreateObjectMapping: 0.352300 ms MarkObjects: 4.186800 ms  DeleteObjects: 0.016600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 869.382234 seconds.
+  path: Assets/Objects/WallTorch
+  artifactKey: Guid(555f64ea1ac01644494948680a8dcfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WallTorch using Guid(555f64ea1ac01644494948680a8dcfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e96c8b312b6e0f3d27786e8b2a889b62') in 0.008513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.695416 seconds.
+  path: Assets/Objects/WallTorch/source
+  artifactKey: Guid(13ace7a08bcca0d489db69ad9c970af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WallTorch/source using Guid(13ace7a08bcca0d489db69ad9c970af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3f3844dd5d61ef43dc652bd1547e1f') in 0.004361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.046010 seconds.
+  path: Assets/Objects/WallTorch/source/torch.fbx
+  artifactKey: Guid(bb2e5b163276ed046acbce49cede1f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/WallTorch/source/torch.fbx using Guid(bb2e5b163276ed046acbce49cede1f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f4d91bf69d22d6026eadd042fbba4a') in 0.438499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.947771 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5e8f1fde4e20c481622e7345a01ce1') in 0.012909 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004586 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.211 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1212ms)
+		BeginReloadAssembly (120ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1039ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (342ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (422ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (333ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4655 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 349.8 MB.
+System memory in use after: 350.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 6460.
+Total: 4.479900 ms (FindLiveObjects: 0.435000 ms CreateObjectMapping: 0.311100 ms MarkObjects: 3.690400 ms  DeleteObjects: 0.042500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004407 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1202ms)
+		BeginReloadAssembly (128ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1018ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (359ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (386ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (299ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (27ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4655 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 349.8 MB.
+System memory in use after: 350.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6462.
+Total: 4.894300 ms (FindLiveObjects: 0.406700 ms CreateObjectMapping: 0.228500 ms MarkObjects: 4.202000 ms  DeleteObjects: 0.056300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 538.038864 seconds.
+  path: Assets/Sprites and Textures/Materials/Fire_Add.mat
+  artifactKey: Guid(894e216fe62924d459b2b2cb8d51c33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites and Textures/Materials/Fire_Add.mat using Guid(894e216fe62924d459b2b2cb8d51c33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083b63ceebdc08034e0c33c9f8e2a6c5') in 0.138536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 389.572804 seconds.
+  path: Assets/Materials/TowerBrick.mat
+  artifactKey: Guid(25a2972074d723f499415850678ca341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TowerBrick.mat using Guid(25a2972074d723f499415850678ca341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75783199b2931407417b51c8b3ca7989') in 0.018308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.521813 seconds.
+  path: Assets/Materials/TowerBrickInside.mat
+  artifactKey: Guid(93b9a794a00c2994fbbec1be7c873e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TowerBrickInside.mat using Guid(93b9a794a00c2994fbbec1be7c873e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e194b94b70ad602ca3c24fe356eb12c') in 0.014344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.028879 seconds.
+  path: Assets/Materials/TowerBrickInside.mat
+  artifactKey: Guid(93b9a794a00c2994fbbec1be7c873e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TowerBrickInside.mat using Guid(93b9a794a00c2994fbbec1be7c873e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5541ec0b1bd87a4372f0c741c9cbf8') in 0.012356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1948.693627 seconds.
+  path: Assets/Objects/EngineRoomStairs/source/double stairs.fbx
+  artifactKey: Guid(d4ccf23a043b3624cacfa6571857b7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/EngineRoomStairs/source/double stairs.fbx using Guid(d4ccf23a043b3624cacfa6571857b7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0b15d323b3f21bfe5b27e069deeb06') in 0.268415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab
+  artifactKey: Guid(50a0925b0c22af146a2d15615f815a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab using Guid(50a0925b0c22af146a2d15615f815a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85fd67e635d0da97c598761e5aef214d') in 0.036041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Stairs_200x100x200_Prefab.prefab
+  artifactKey: Guid(466621a4836aa504c87c15d88722d465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Stairs_200x100x200_Prefab.prefab using Guid(466621a4836aa504c87c15d88722d465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4a52b7b412c30715524dfd8af05a60') in 0.017995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx
+  artifactKey: Guid(7e0223e1d3e1733499accfa5ebffb67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx using Guid(7e0223e1d3e1733499accfa5ebffb67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6380f3af8cd9a544cb12e8dbc94e0b99') in 0.040269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx
+  artifactKey: Guid(fce3bf5a5b603db45ab0048fb6ab44df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx using Guid(fce3bf5a5b603db45ab0048fb6ab44df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e287e251eb35e9544f42372e4a074f8') in 0.023270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1545.967129 seconds.
+  path: Assets/Materials/TowerBrickInside2.mat
+  artifactKey: Guid(b2ceca1b52b247743b0aabdbead17ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TowerBrickInside2.mat using Guid(b2ceca1b52b247743b0aabdbead17ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7bdf4263bd1f2b100a0d3486d8d853') in 0.015465 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004805 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.325 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1325ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1113ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (383ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (424ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (334ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4655 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 350.0 MB.
+System memory in use after: 350.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6500.
+Total: 5.429100 ms (FindLiveObjects: 0.547600 ms CreateObjectMapping: 0.413400 ms MarkObjects: 4.437300 ms  DeleteObjects: 0.029400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004465 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\temp\Harry Unity Projects\Demons-of-Novgorod\Demons of Novgorod\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.209 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1210ms)
+		BeginReloadAssembly (152ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1001ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (342ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (383ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (298ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4655 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 350.0 MB.
+System memory in use after: 350.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6502.
+Total: 4.719500 ms (FindLiveObjects: 0.547400 ms CreateObjectMapping: 0.296100 ms MarkObjects: 3.858500 ms  DeleteObjects: 0.016700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
