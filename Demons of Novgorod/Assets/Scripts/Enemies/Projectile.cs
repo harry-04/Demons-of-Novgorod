@@ -11,6 +11,11 @@ public class Projectile : MonoBehaviour
         GameObject impact = Instantiate(impactEffect, transform.position, Quaternion.identity);
         Destroy(impact, 2);
 
+        if (collision.gameObject.tag == "Player")
+        {
+            collision.gameObject.GetComponent<PlayerHealth>().TakeDamage(1);
+        }
+
         Destroy(gameObject);
     }
 }

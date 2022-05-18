@@ -13,7 +13,7 @@ public class EnemyChaseBehaviour : StateMachineBehaviour
     {
         agent = animator.GetComponent<NavMeshAgent>();
 
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        player = GameObject.FindGameObjectWithTag("PhoenixAim").transform;
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -22,7 +22,7 @@ public class EnemyChaseBehaviour : StateMachineBehaviour
         agent.SetDestination(player.position);
 
         float distance = Vector3.Distance(animator.transform.position, player.position);
-        if (distance < 5)
+        if (distance < 6)
         {
             animator.SetBool("isAttacking", true);
         }

@@ -12,6 +12,7 @@ TagManager:
   - WayPoints
   - PhoenixAim
   - DestructibleObject
+  - ShootHere
   layers:
   - Default
   - TransparentFX
