@@ -10,7 +10,7 @@ public class HunterJumpScript : MonoBehaviour
     public AudioSource jumpSound;
     public AudioSource landSound;
 
-    void Start()
+    void OnEnable()
     {
         realHunter.SetActive(false);
         Invoke("BackToChasing", 2);

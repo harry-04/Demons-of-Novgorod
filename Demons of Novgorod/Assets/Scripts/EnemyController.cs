@@ -16,6 +16,7 @@ public class EnemyController : MonoBehaviour
     public AudioSource footstep1;
     public AudioSource footstep2;
 
+
     void Start()
     {
         target = PlayerManager.instance.player.transform;
@@ -26,6 +27,8 @@ public class EnemyController : MonoBehaviour
 
     void Update()
     {
+        //InvokeRepeating("RandomSounds", 5, 5);
+
         float distance = Vector3.Distance(target.position, transform.position);
 
         if (distance <= lookRadius)
@@ -85,4 +88,6 @@ public class EnemyController : MonoBehaviour
     {
         footstep2.Play();
     }
+
+   
 }
