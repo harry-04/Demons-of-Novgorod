@@ -13,6 +13,7 @@ TagManager:
   - PhoenixAim
   - DestructibleObject
   - ShootHere
+  - TheHunter
   layers:
   - Default
   - TransparentFX

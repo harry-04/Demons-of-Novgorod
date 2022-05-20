@@ -13,6 +13,9 @@ public class EnemyController : MonoBehaviour
     Transform target;
     NavMeshAgent agent;
 
+    public AudioSource footstep1;
+    public AudioSource footstep2;
+
     void Start()
     {
         target = PlayerManager.instance.player.transform;
@@ -71,5 +74,15 @@ public class EnemyController : MonoBehaviour
 
         Gizmos.color = Color.blue;
         Gizmos.DrawWireSphere(transform.position, attackRadius);
+    }
+
+    public void FootstepLeft()
+    {
+        footstep1.Play();
+    }
+
+    public void FootstepRight()
+    {
+        footstep2.Play();
     }
 }

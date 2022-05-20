@@ -7,6 +7,10 @@ public class DeathZone : MonoBehaviour
 
     private void OnTriggerEnter(Collider col)
     {
-        col.gameObject.GetComponent<PlayerHealth>().Die();
+        if (col.gameObject.tag == "Player")
+        {
+             col.gameObject.GetComponent<PlayerHealth>().TakeDamage(5);
+        }
+       
     }
 }
