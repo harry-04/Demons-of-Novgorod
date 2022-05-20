@@ -18,7 +18,7 @@ public class GunScript : MonoBehaviour
     void Start()
     {
         loadedAmmo = 10f;
-        overallAmmo = 30f;
+        overallAmmo = 0f;
         starterAssetsInputs = GetComponent<StarterAssetsInputs>();
     }
 

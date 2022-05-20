@@ -16,6 +16,10 @@ public class SceneSwitcher : MonoBehaviour
     public GameObject phoenix;
     public GameObject mainCamera;
     public GameObject playerFollowCamera;
+    public GameObject boat;
+    public GameObject pirate;
+    public GameObject ammoInterface;
+    public GameObject healthBarInterface;
 
     void Awake()
     {
@@ -37,6 +41,10 @@ public class SceneSwitcher : MonoBehaviour
     {
         StartCoroutine(SwitchToEngineRoom());
         hasCutscenePlayed = false;
+        ammoInterface = GameObject.FindGameObjectWithTag("AmmoUI");
+        healthBarInterface = GameObject.FindGameObjectWithTag("HealthUI");
+        ammoInterface.SetActive(false);
+        healthBarInterface.SetActive(false);
     }
 
     public void FixedUpdate()
@@ -46,14 +54,23 @@ public class SceneSwitcher : MonoBehaviour
         phoenix = GameObject.FindGameObjectWithTag("Player");
         mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
         playerFollowCamera = GameObject.FindGameObjectWithTag("PlayerFollowCamera");
+        boat = GameObject.FindGameObjectWithTag("Boat");
+        pirate = GameObject.FindGameObjectWithTag("Pirate");
+        ammoInterface = GameObject.FindGameObjectWithTag("AmmoUI");
+        healthBarInterface = GameObject.FindGameObjectWithTag("HealthUI");
 
         if (hasCutscenePlayed == true)
         {
             Destroy(timeline);
             Destroy(cameraFar);
+            Destroy(boat);
+            Destroy(pirate);
             mainCamera.SetActive(true);
             playerFollowCamera.SetActive(true);
             phoenix.SetActive(true);
+            ammoInterface.SetActive(true);
+            healthBarInterface.SetActive(true);
+            GetComponent<SceneSwitcher>().enabled = false;
 
           
         }

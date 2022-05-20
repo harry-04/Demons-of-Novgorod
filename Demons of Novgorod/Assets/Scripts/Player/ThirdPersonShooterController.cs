@@ -162,6 +162,7 @@ public class ThirdPersonShooterController : MonoBehaviour
                 if (handgunAmmo != null)
                 {
                     gameObject.GetComponent<GunScript>().overallAmmo += 10;
+                    AudioManager.instance.Play("PickUpAmmo");
                     Destroy(hitTransform.gameObject);
                     starterAssetsInputs.interact = false;
                 }

@@ -7,17 +7,25 @@ public class ThePirateDenMusicManager : MonoBehaviour
     public GameObject mainHall;
     public GameObject diningRoom;
     public GameObject corridorToThePirateDen;
+    public GameObject thePirateDen;
+    public GameObject theHunter;
+    public GameObject theEndRoom;
+    public GameObject door;
 
 
     public GameObject mainHallMusic;
     public GameObject diningRoomAmbient;
     public GameObject spookyWind;
+    public GameObject seaShanty;
+    public GameObject theHunterChaseMusic;
 
     void Start()
     {
         mainHallMusic.SetActive(false);
         diningRoomAmbient.SetActive(false);
         spookyWind.SetActive(false);
+        seaShanty.SetActive(false);
+        theHunterChaseMusic.SetActive(false);
     }
 
     void Update()
@@ -40,6 +48,25 @@ public class ThePirateDenMusicManager : MonoBehaviour
         {
             mainHallMusic.SetActive(false);
             spookyWind.SetActive(true);
+        }
+
+        if (thePirateDen.activeSelf)
+        {
+            spookyWind.SetActive(false);
+            seaShanty.SetActive(true);    
+        }
+
+        if (theHunter.activeSelf)
+        {
+            door.GetComponent<Doors>().enabled = false;
+            seaShanty.SetActive(false);
+            theHunterChaseMusic.SetActive(true);
+        }
+
+        if (theEndRoom.activeSelf)
+        {
+            theHunterChaseMusic.SetActive(false);
+            mainHallMusic.SetActive(true);
         }
 
         
