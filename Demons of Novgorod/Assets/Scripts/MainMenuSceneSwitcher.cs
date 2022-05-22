@@ -11,4 +11,8 @@ public class MainMenuSceneSwitcher : MonoBehaviour
         SceneManager.LoadScene("NovgorodBase");
     }
 
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }

@@ -40,10 +40,12 @@ public class ThirdPersonShooterController : MonoBehaviour
     //footstep sound effect
     public AudioSource footstep;
 
+    public GameObject ammoManager;
 
 
     private void Awake()
     {
+        ammoManager = GameObject.FindWithTag("AmmoManager");
         thirdPersonController = GetComponent<ThirdPersonController>();
         starterAssetsInputs = GetComponent<StarterAssetsInputs>();
         animator = GetComponent<Animator>();
@@ -148,6 +150,7 @@ public class ThirdPersonShooterController : MonoBehaviour
             AudioManager.instance.Play("Gunshot");
             starterAssetsInputs.shoot = false;
             gameObject.GetComponent<GunScript>().loadedAmmo --;
+            ammoManager.GetComponent<AmmoManager>().loadedAmmoManaged --;
         }
 
         
@@ -162,6 +165,7 @@ public class ThirdPersonShooterController : MonoBehaviour
                 if (handgunAmmo != null)
                 {
                     gameObject.GetComponent<GunScript>().overallAmmo += 10;
+                    ammoManager.GetComponent<AmmoManager>().overallAmmoManaged += 10;
                     AudioManager.instance.Play("PickUpAmmo");
                     Destroy(hitTransform.gameObject);
                     starterAssetsInputs.interact = false;
